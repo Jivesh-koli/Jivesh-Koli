@@ -13,7 +13,7 @@ building GenAI/RAG systems and backend applications.
 `Python` `Java` `Spring Boot` `LangChain` `ChromaDB` `PostgreSQL` `Hibernate` `Streamlit`
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/jivesh-koli-223a79257/)## Hi there 👋
+[LinkedIn](https://www.linkedin.com/in/jivesh-koli-223a79257/)
 
 <!--
 **Jivesh-koli/Jivesh-Koli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
